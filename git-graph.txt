@@ -1,0 +1,21 @@
+* 4b82e79 (HEAD -> main, origin/main, origin/HEAD) docs: Add changelog
+* 02fd2f0 (tag: v1.1.0, tag: v1.0.0, origin/feature/another-feature) docs: Update README
+| * 56e46f2 (origin/feature/new-feature, feature/new-feature) feat: Add new feature
+|/  
+*   cf593c1 (feature/another-feature) Resolved README.md and added checkpoint2.png
+|\  
+| * d3dd9b2 (origin/conflict-simulator, instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+* | 1e6b274 Add server.js and update package files
+* | 7db6dc1 Resolved conflict in README.md by merging production and development versions
+* | d43ad83 Resolved merge conflict in docs/architecture.md by merging both versions
+* | c121e63 Resolved conflict in scripts/monitor.js with environment-based config
+* | cff58a8 Resolve conflict in scripts/deploy.sh with multi-environment support.
+* | 064b43a Removed nested git repository from index
+* |   a2c38d3 Resolved all merge conflicts including README and scripts
+|\ \  
+| * | 02011a5 (origin/dev, instructor/dev, dev) updating dev
+| |/  
+* | 0312c6f (instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+* ae630eb Initial commit
