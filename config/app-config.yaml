@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Development Application Configuration
 application:
   name: DevOpsSimulator
@@ -37,7 +36,6 @@ notifications:
   slack_webhook: "https://hooks.slack.com/services/XXX"
   discord_webhook: "https://discord.com/api/webhooks/YYY"
   email_alerts: false
-=======
 # Experimental Application Configuration
 application:
   name: DevOpsSimulator
@@ -85,4 +83,4 @@ security:
   zero_trust: enabled
   encryption: AES-256
   audit_logging: comprehensive
->>>>>>> conflict-simulator
+

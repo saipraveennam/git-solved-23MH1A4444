@@ -1,6 +1,6 @@
 {
   "connection": {
-<<<<<<< HEAD
+
     "host": "prod-db.example.com",
     "port": 5432,
     "database": "devops_production",
@@ -43,7 +43,7 @@
     "seed_data": true,
     "reset_on_restart": true,
     "debug_queries": true
-=======
+
     "type": "distributed",
     "hosts": [
       "node1.example.com",
@@ -84,6 +84,5 @@
     "slow_query_threshold": 100,
     "alert_on_anomaly": true,
     "metrics_export": "prometheus"
->>>>>>> conflict-simulator
   }
 }
